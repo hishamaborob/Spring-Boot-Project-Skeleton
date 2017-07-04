@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/hishamaborob/Spring-Boot-Project-Skeleton.svg?branch=master)](https://travis-ci.org/hishamaborob/Spring-Boot-Project-Skeleton)
 
-# Spring-Boot-Project-Skeleton
+# Spring Boot Project Skeleton
 
 Microservice skeleton based on Spring Boot and Java 8. It is ready to start skeleton project that can be packaged as JAR with embedded Tomcat server and uses HTTP as a protocol for REST.
 
